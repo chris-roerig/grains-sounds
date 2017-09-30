@@ -1,4 +1,4 @@
-﻿
+CLUBGROOVE
 ======
 
 * Knob 1: Loop start

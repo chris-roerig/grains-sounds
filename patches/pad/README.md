@@ -1,4 +1,4 @@
-﻿
+PAD
 ======
 
 * Knob 1: Loop start
