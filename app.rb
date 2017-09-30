@@ -8,6 +8,7 @@ if file.nil?
 end
 
 name = File.basename(file, ".*")
+name = "a#{name}" if name[0].match(/[0-9]/)
 outpath = "./patches/#{name}"
 soundfile = "#{outpath}/#{name}.wav"
 hfile = "#{outpath}/sample.h"
