@@ -34,8 +34,8 @@ Thats it :)
 
 All credit for the Arduino code goes to Framen and the following sources:
 
-[0]: http://www.ginkosynthese.com/product/grains/
-[1]: http://playground.arduino.cc/Code/PCMAudio
-[2]: michael@hurts.ca
-[3]: https://www.facebook.com/HRTLmuzik
-[4]: https://github.com/thatpixguy/hrtl-amen
+* http://www.ginkosynthese.com/product/grains/
+* http://playground.arduino.cc/Code/PCMAudio
+* michael@hurts.ca
+* https://www.facebook.com/HRTLmuzik
+* https://github.com/thatpixguy/hrtl-amen
