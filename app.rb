@@ -15,6 +15,7 @@ hfile = "#{outpath}/sample.h"
 readme = "#{outpath}/README.md"
 
 # copy original template to destination
+FileUtils.remove_dir outpath if File.exist?(outpath)
 FileUtils.cp_r 'source', outpath
 FileUtils.cp file, outpath
 
